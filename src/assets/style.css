@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    box-sizing: border-box;
+    background: linear-gradient(243.18deg, #0C05E7 0%, #9B2FCD 100%);
+    background-repeat: no-repeat;
+}
